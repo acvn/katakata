@@ -1,0 +1,2 @@
+# KATAKATA
+kumpulan wordlist
